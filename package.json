@@ -27,7 +27,7 @@
     "i18next-resources-to-backend": "^1.2.0",
     "mdast-util-to-string": "^4.0.0",
     "negotiator": "^0.6.3",
-    "next": "^14.1.0",
+    "next": "^14.1.1",
     "notion-to-md": "^3.1.1",
     "react": "^18",
     "react-dom": "^18",
